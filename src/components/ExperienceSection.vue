@@ -2,7 +2,7 @@
   <section id="experience">
     <div class="container">
       <h2 class="fade-in">My Experience</h2>
-      <h3 class="fade-in-delay-1">
+      <h3 style="color: black;">
         With over two years of hands-on experience in web development and
         automation testing, I've grown from building simple web pages to
         creating dynamic, responsive web applications. Here's a snapshot of my
@@ -117,7 +117,7 @@ export default {
 
 .timeline-item h3 {
   font-size: 2rem;
-  color: #4e54c8;
+  color: #eeeef5;
   font-weight: 600;
 }
 
