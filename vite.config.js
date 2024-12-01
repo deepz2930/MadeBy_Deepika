@@ -6,7 +6,7 @@ import vueDevTools from 'vite-plugin-vue-devtools'
 
 // https://vite.dev/config/
 export default defineConfig({
-  publicPath:'/MadeBy_Deepika/',
+  base:'/MadeBy_Deepika/',
   plugins: [
     vue(),
     vueDevTools(),
