@@ -88,6 +88,9 @@ export default {
   font-family: "Roboto Slab", serif;
   animation: fadeInUp 1s ease-out forwards;
 }
+#experience h3{
+  color:black;
+}
 
 #experience p {
   font-size: 1rem;
