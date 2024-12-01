@@ -88,9 +88,6 @@ export default {
   font-family: "Roboto Slab", serif;
   animation: fadeInUp 1s ease-out forwards;
 }
-#experience h3{
-  color:black;
-}
 
 #experience p {
   font-size: 1rem;
@@ -120,7 +117,7 @@ export default {
 
 .timeline-item h3 {
   font-size: 2rem;
-  color:black;
+  color: #4e54c8;
   font-weight: 600;
 }
 
