@@ -1,7 +1,7 @@
 <template>
   <nav>
     <div class="logo">
-      <img :src="`/icons/logoweb.png`" alt="Logo">
+      <img src="@/components/icons/logoweb.png" alt="Logo">
     </div>
     <div class="menu-toggle" @click="toggleMenu">
       <span class="bar"></span>
