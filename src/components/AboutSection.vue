@@ -20,7 +20,7 @@ export default {
 <style scoped>
 /* Base styling */
 #about {
-  background: linear-gradient(135deg, #88c1f0, #111111); /* Smooth gradient background */
+  background: linear-gradient(135deg, #0e2334, #171212); /* Smooth gradient background */
   color: rgb(245, 241, 241);
   padding: 80px 20px;
   font-family: 'Poppins', sans-serif;
