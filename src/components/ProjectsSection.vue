@@ -5,7 +5,7 @@
       <div class="skills-grid">
         <div class="skill-card" v-for="(skill, index) in skills" :key="index">
           <div class="skill-icon">
-            <img :src="`dist/icons/${skill.icon}`" :alt="skill.title" />
+            <img :src="`/MadeBy_Deepika/dist/icons/${skill.icon}`" :alt="skill.title" />
           </div>
           <h3>{{ skill.title }}</h3>
           <p>{{ skill.description }}</p>
