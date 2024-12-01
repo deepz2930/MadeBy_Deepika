@@ -75,6 +75,7 @@ export default {
   font-size: 2.5rem;
   margin-bottom: 40px;
   text-align: center;
+  color:black;
 }
 
 .skills-grid {

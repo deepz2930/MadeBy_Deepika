@@ -117,7 +117,7 @@ export default {
 
 .timeline-item h3 {
   font-size: 2rem;
-  color: #eff0f3;
+  color:black;
   font-weight: 600;
 }
 
